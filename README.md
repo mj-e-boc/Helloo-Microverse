@@ -1,19 +1,17 @@
-<a name="readme-top"></a>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#HTML, CSS)
-    - [Tech Stack](#)
-    - [Key Features](#Demonstration of skills)
-  - [🚀 https://github.com/mj-e-boc/Hello-Microverse-](#live-demo)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#Terminal)
+  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -22,13 +20,17 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="Introductory project"></a>
+# 📖 [Hello_Microverse] <a name="about-project"></a>
 
-**[Ronald Portfolio is a showcase of skills and my knowledge of tech languages and skills]** is a...
+[Ronald Portfolio is a showcase of skills and my knowledge of tech languages and skills]
 
-## 🛠 Built With <a name="HTML, CSS"></a>
+**[Hello-Micriverse]** is an introductory project to programming
 
-### Tech Stack <a name="Bootsrap"></a>
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+Built with HTML and CSS
 
 <details>
   <summary>Client</summary>
@@ -51,31 +53,60 @@
   </ul>
 </details>
 
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
-- **[Hello Microverse Text, displayed in blueviolet]**
+- Hello Microverse text displayed in violet
+
+- **[Hello Microverse text]**
+- **[Text is in violet]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+Link to be added
+
+- [Live Demo Link](https://github.com/mj-e-boc/Helloo-Microverse)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+- Open terminal on your computer, clone the project, go live and view the text displayed on the screen
 
 ### Prerequisites
 
-In order to run this project you need: node.js , visual studio code
+In order to run this project you need:
+
+A computer with terminal
 
 ### Setup
 
-Clone this repository to your desired folder then drag the folder to visual studio code and open the index.html file using a live server
+Clone this repository to your desired folder:
+git clone git@github.com:myaccount/my-project.git
+
+open the project using:
+cd folder-name
 
 ### Install
 
-Install this project with visual studio code
+Install this project
 
-### Deployment
+### Usage
 
-You can deploy this project using:
+To run the project:
+
+click on go Live on the bottom of vsCode, and view it on the screen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -85,31 +116,49 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Background_color]**
+- [ ] **[Text_font]**
+- [ ] **[Border]**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mj-e-boc/Helloo-Microverse/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project feel free to get in touch with me via a message here or contact platforms listed above.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse alumni for the inspiration
+I would like to thank the microverse Alumni that keep inspiring me to code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FAQ (optional) -->
+
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **[What to expext in the future? ]**
+> Add at least 2 questions new developers would ask when they decide to use your project.
 
-  - [Better,cleaner code]
+- **[How_to_get_in_touch]**
 
-- **[Any opportunities for collaboration]**
+  - [check_contact_section_above]
 
-  - [Please send me a message on linkedin/twitter]
+- **[You_open_for_new_ideas]**
+
+  - [The_more_the_better]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
